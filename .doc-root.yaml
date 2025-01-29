@@ -1,0 +1,7 @@
+title: Vadim
+optionalCategoryIndex: true
+supportedLanguages: []
+properties:
+  - name: Статья
+    type: Many
+    style: blue
